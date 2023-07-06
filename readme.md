@@ -1,5 +1,5 @@
 # 📈🧪 Data Analytics Program 🧠📊 : Story of *___Maryanne_Muchai__*
-Here is the place to tell the story of your experience of the Data Analytics Program.
+This is my experience in the Azubi Africa Data Analytics Program.
 
 ## Let me introduce Myself
 `My name is Maryanne Muchai. I am an I.T professional with experience in end user support. Before I joined Azubi Africa DAP program I was working in customer service having held previous roles in I.T end user support. However, my background is in I.T. I joined the program with an aim of redirecting my career back to IT and specifically data analysis.`
