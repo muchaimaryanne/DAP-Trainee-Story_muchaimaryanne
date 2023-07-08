@@ -9,7 +9,7 @@ This is my experience in the Azubi Africa Data Analytics Program.
 `My experience in the DAP was insightful but also challenging. I really learned a lot, not only technical skills but also soft skills
  like teamwork and communication. I met people I would never have met otherwise and made new friends and connections. I was pushed due to the fact that I was juggling both the program and work but it made me better and I really appreciate the Azubi community for the opportunity.`
 
-## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
+## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics? 
 `The career phase exposed me to different kinds of real-world projects. In doing so I got familiar with different technologies, platforms, frameworks, and approaches that I can use to handle each one of them.`
 
 ## What enticed me to join the Data Analytics Program?
@@ -18,11 +18,11 @@ This is my experience in the Azubi Africa Data Analytics Program.
 ## What would I say my progress in tech has been since joining the program? 
 `The progress I have made in tech I would say is learning data analysis. I have a firm foundation and skills that I can build on and grow.`
 
-## What are my plans for the future ?
+## What are my plans for the future?
 `I plan to continue learning and to join a group or workplace where I can practice and sharpen my skills.`
 
-## What is my dream company or role ?
-`My dream role is a to be a data scientist where I can also train others.`
+## What is my dream company or role?
+`My dream role is to be a data scientist where I can also train others.`
 
 ## 1st Phase Projects' Summary Table
 `These are the projects that I completed during the first phase of the program.`
@@ -103,7 +103,7 @@ This is my experience in the Azubi Africa Data Analytics Program.
 <tr>
 <td>3</td>
 <td>Customer Churn Prediction </td>
-<td>The purpose of this project is to find the likelihood of a customer leaving the organization, finding the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.</td>
+<td>The purpose of this project is to find the likelihood of a customer leaving the organization, find the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.</td>
 <td>https://medium.com/@muchaimaryanne/the-power-of-data-how-machine-learning-can-help-predict-and-prevent-customer-churn-65b303381f02</td>
 <td>N/A</td>
 <td>https://github.com/muchaimaryanne/Telco-Customer-Churn</td>
@@ -152,12 +152,12 @@ This is my experience in the Azubi Africa Data Analytics Program.
 
 <tr>
 <td>Capstsone</td>
+<td>Capstone-Azubian-Customer-Churn-Prediction-Challenge </td>
+<td>This challenge is for an African telecommunications company that provides customers with airtime and mobile data bundles. The solution will help this telecom company to better serve its customers by understanding which customers are at risk of leaving. </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>https://huggingface.co/spaces/Queensly/Customer_Churn/ </td>
+<td>https://github.com/muchaimaryanne/Capstone-Azubian-Customer-Churn-Prediction-Challenge </td>
+<td>https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/</td>
 </tr>
 
 </tbody>
@@ -166,51 +166,53 @@ This is my experience in the Azubi Africa Data Analytics Program.
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
 
-    `Reply here please.`
+    `I would say do it because it's worthwhile but also remember that Rome was not built in a day so give yourself time and grace.`
 
 1. What did you think about the quality of teaching and level of assistance? 
 
-    `Reply here please.`
+    `It was really good and offered all the support needed.`
 
 1. What did you like most about the program? 
 
-    `Reply here please.`
+    `Having a community to turn to and to push me out of my comfort zone.`
 
 1. Are the lectures engaging and interesting? 
 
-    `Reply here please.`
+    `Yes, they are.`
 
 1. What happens if you miss a lecture? 
 
-    `Reply here please.`
+    `I would watch the recording though it affected my participation score.`
 
 1. What do you think of the flexibility of the program? 
 
-    `Reply here please.`
+    `It's good but more time slots can be made especially during the career phase to incorporate those working full time.`
 
-1. Do the projects worked on help you test your ability / skills? 
+1. Do the projects worked on help you test your ability/skills? 
 
-    `Reply here please.`
+    `Yes, they did.`
 
 1. What will you change about the program if you had a chance? 
 
-    `Reply here please.`
+    `The creation of more time slots and maybe options for those who would perhaps want to focus on different aspects of analysis such as visualization.`
 
-1. What do you think about the fees structure? 
+1. What do you think about the fee structure? 
 
-    `Reply here please.`
+    `Can be a bit challenging especially if you don't find work right away but also the referral program is a good idea in reducing this.`
 
-1. Would you say Azubi Has Changed your life ? 
+1. Would you say Azubi Has Changed your life? 
 
-    `Reply here please.`
+    `Definitely has.`
 
-1. Do you think you have gained enough skills through our programme to land your dream job ? 
+1. Do you think you have gained enough skills through our program to land your dream job? 
 
-    `Reply here please.`
+    `I have gained enough skills to get me through the door to get there.`
 
 
 ## My Contacts
-`Please add your contacts here...`
+* [Github ](https://github.com/muchaimaryanne):
+* [LinkedIn](https://www.linkedin.com/in/maryannemuchai/):
+* [HuggingFace](https://huggingface.co/MaryanneMuchai):
+* [Medium](https://medium.com/@muchaimaryanne):
 
-**NB:**
-Feel free to add more sections if you want to share some thoughts or personal works, etc.
+
