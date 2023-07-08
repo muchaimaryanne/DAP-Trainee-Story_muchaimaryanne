@@ -2,26 +2,27 @@
 This is my experience in the Azubi Africa Data Analytics Program.
 
 ## Let me introduce Myself
-`My name is Maryanne Muchai. I am an I.T professional with experience in end user support. Before I joined Azubi Africa DAP program I was working in customer service having held previous roles in I.T end user support. However, my background is in I.T. I joined the program with an aim of redirecting my career back to IT and specifically data analysis.`
+`My name is Maryanne Muchai. I am an IT professional with experience in end-user support. Before I joined Azubi Africa DAP program, I worked in customer service, having held previous roles in IT end-user support. However, my background is in IT. I joined the program with the aim of redirecting my career back to IT and specifically data analysis.`
 
 
-## How would I describe my experience in the data analytics program ? 
-`Please add text here...`
+## How would I describe my experience in the data analytics program? 
+`My experience in the DAP was insightful but also challenging. I really learned a lot, not only technical skills but also soft skills
+ like teamwork and communication. I met people I would never have met otherwise and made new friends and connections. I was pushed due to the fact that I was juggling both the program and work but it made me better and I really appreciate the Azubi community for the opportunity.`
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
-`Please add text here...`
+`The career phase exposed me to different kinds of real-world projects. In doing so I got familiar with different technologies, platforms, frameworks, and approaches that I can use to handle each one of them.`
 
 ## What enticed me to join the Data Analytics Program?
-`Please add text here...`
+`I wanted a program that not only provided the material but also people that would guide me along the way.`
 
-## What would I say my progress in tech has been since joining the program ? 
-`Please add text here...`
+## What would I say my progress in tech has been since joining the program? 
+`The progress I have made in tech I would say is learning data analysis. I have a firm foundation and skills that I can build on and grow.`
 
 ## What are my plans for the future ?
-`Please add text here...`
+`I plan to continue learning and to join a group or workplace where I can practice and sharpen my skills.`
 
 ## What is my dream company or role ?
-`Please add text here...`
+`My dream role is a to be a data scientist where I can also train others.`
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
