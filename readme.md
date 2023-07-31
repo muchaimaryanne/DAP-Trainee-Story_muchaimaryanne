@@ -170,7 +170,7 @@ This is my experience in the Azubi Africa Data Analytics Program.
 
 1. What did you think about the quality of teaching and level of assistance? 
 
-    `It was really good and offered all the support needed.`
+    `It was really good and offered all the support needed. The trainers gave helpful feedback and teachops was always ready to tackle our challenges.`
 
 1. What did you like most about the program? 
 
@@ -178,7 +178,7 @@ This is my experience in the Azubi Africa Data Analytics Program.
 
 1. Are the lectures engaging and interesting? 
 
-    `Yes, they are.`
+    `Yes, they are. They offer a space where you not only learn but have a chance to also give your own input.`
 
 1. What happens if you miss a lecture? 
 
@@ -190,7 +190,7 @@ This is my experience in the Azubi Africa Data Analytics Program.
 
 1. Do the projects worked on help you test your ability/skills? 
 
-    `Yes, they did.`
+    `Yes, they did. The projects I worked on were something that I have never done before and now I can do similar or different projects on the same with a lot more ease.`
 
 1. What will you change about the program if you had a chance? 
 
@@ -202,7 +202,7 @@ This is my experience in the Azubi Africa Data Analytics Program.
 
 1. Would you say Azubi Has Changed your life? 
 
-    `Definitely has.`
+    `Definitely has. I am more confident in myself and what I can do and also what I am capable of learning.`
 
 1. Do you think you have gained enough skills through our program to land your dream job? 
 
